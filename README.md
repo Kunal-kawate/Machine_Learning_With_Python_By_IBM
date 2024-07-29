@@ -23,6 +23,8 @@ I am proud to share my completion certificate for this course. You can view the 
 
 I am thankful to IBM and Coursera for providing this excellent course. It has significantly enhanced my understanding and skills in machine learning, and I am excited to apply this knowledge to real-world projects!
 
+![CertificatePicture](https://github.com/Kunal-kawate/Machine_Learning_With_Python_By_IBM/blob/main/CourseraC3G3W926C7PH.jpg)
+
 ## Repository Contents
 
 - `certificate.pdf`: My completion certificate for the "Machine Learning with Python" course by IBM.
